@@ -22,6 +22,5 @@ Choose the country to display news.
 - Improve terminal output
 - More options...
 # Credits
-Liveuamap
-[Liveuamap](liveuamap.com)
+[Liveuamap](https://liveuamap.com/)
 
